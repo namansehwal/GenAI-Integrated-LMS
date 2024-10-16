@@ -15,7 +15,7 @@
 1. **Clone the Repository:**
    - Open your terminal and run the following command to clone the repository to your local machine:
      ```
-     git clone https://github.com/ravikumawat7716/soft-engg-project-may-2024-se-may-23.git
+     git clone https://github.com/namansehwal/GenAI-Integrated-LMS.git
      ```
 
 ### Backend Setup:
